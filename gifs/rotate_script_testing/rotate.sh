@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # call like ./rotate.sh nue.png hina_nue.gif
 # makes no promises on filesizes but the result animation will be a square of
 # the largest dimension in orig. image
