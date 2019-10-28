@@ -8,5 +8,5 @@
 
 for Output in $(ls $1)
 do
-  composite -geometry 30x30+1+1 ~/Downloads/fumotes/ping.png "$1/$Output" "$2/$Output"
+  composite -geometry 64x64+0+43 ~/Downloads/fumotes/tilted_drums.png "$1/$Output" "$2/$Output"
 done
